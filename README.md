@@ -32,4 +32,11 @@ O arquivo será gerado na pasta `target/`. Para executá-lo:
 java -jar target/nome-do-arquivo.jar
 ```
 
+## Equipe
 
+```sh
+Ian Carvalho;
+João Paulo;
+Enzo Franklin;
+Jonathas Sampaio.
+```
